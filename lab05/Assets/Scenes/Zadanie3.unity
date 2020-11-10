@@ -438,7 +438,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30450
+  m_Name: pb_Mesh38878
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -601,7 +601,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30466
+  m_Name: pb_Mesh38894
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -764,7 +764,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30518
+  m_Name: pb_Mesh38946
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7163,7 +7163,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh30494
+  m_Name: pb_Mesh38922
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7733,9 +7733,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   elevatorSpeed: 2
   places:
-  - {x: 0, y: 5, z: -9}
-  - {x: -10, y: 5, z: -5}
-  - {x: 2, y: 2, z: 0}
+  - {x: -9, y: 5, z: 0}
+  - {x: 0, y: 5, z: 0}
+  - {x: 9, y: 0, z: 9}
 --- !u!54 &1198856349
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -7863,7 +7863,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-78028
+  m_Name: pb_Mesh38860
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
